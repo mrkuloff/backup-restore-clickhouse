@@ -1,1 +1,4 @@
-# backup-restore-clickhouse
+# Скрипты для Clickhouse с использование AWS S3
+
+backup.py - скрипт для создания бекапа на S3
+restore.py - скрипт для восстановления бекапа с S3
